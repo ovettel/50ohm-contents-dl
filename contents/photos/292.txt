@@ -1,0 +1,5 @@
+Dieser Alt-Text wurde noch nicht überprüft.
+
+Zusammenfassung: Ausschnitt der Frontplatte eines elektronischen Messgeräts mit mehreren Drehknöpfen und BNC-Buchsen für Ausgang und Frequenzeingang.
+
+Detaillierte Beschreibung: Oben verläuft eine Reihe hellgrauer, quadratischer Tasten mit Symbolen (u. a. Wellenformen) und Beschriftungen wie INV, DC und -20 dB (ATT). Darunter links ein großer, beigefarbener Drehknopf mit der Beschriftung DC OFFSET und dem Hinweis → PULL; in der Mitte ein gleich großer Knopf LEVEL mit Skala von MIN bis MAX. Rechts daneben eine silberne, runde BNC-Buchse mit der Beschriftung OUTPUT und 50 Ω sowie einem Warnsymbol. Im unteren, hellblauen Bereich befindet sich links ein weiterer Drehknopf F MAX. In der Mitte ist eine BNC-Buchse unter der Überschrift FREQ INPUT, umgeben von den Angaben LF 5 Hz–5 MHz und HF 4 MHz–120 MHz. Rechts unten eine weitere BNC-Buchse mit der Beschriftung OUTPUT TTL und einem Warnsymbol. Die Front ist dunkelblau mit hellblauen Feldern; die Bedienelemente wirken leicht benutzt.

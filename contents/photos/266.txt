@@ -1,0 +1,5 @@
+Dieser Alt-Text wurde noch nicht überprüft.
+
+Kurz-Zusammenfassung: Diagramm mit drei farbigen, phasenverschobenen Sinuskurven (u_L blau, i rot, p grün) und deutschsprachigen Textmarkierungen zur Leistungsrichtung bei einer Induktivität.
+
+Detaillierte Beschreibung: Auf weißem Hintergrund verlaufen drei sinusförmige Kurven über der Zeit t: eine blaue Kurve mit der Beschriftung u_L, eine rote Kurve mit der Beschriftung i (der Buchstabe i ist rot eingekreist) und eine grüne Kurve mit der Beschriftung p (der Buchstabe p ist grün eingekreist). Die Kurven sind gegeneinander verschoben. Zwei rote Ellipsen heben Texte hervor: oben rechts „Leistung wird von der Spannungsquelle an den Blindwiderstand abgegeben“ und unten links „Leistung fließt vom Blindwiderstand zur Spannungsquelle zurück“. In der Mitte steht in schwarzer Schrift: „Die Summe der Leistungen über die Zeit ist gleich Null, d.h. es wird keine Wirkleistung aufgenommen!“ Unten als Bildunterschrift: „Induktivität – Strom zu spät.“

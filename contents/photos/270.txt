@@ -1,0 +1,5 @@
+Dieser Alt-Text wurde noch nicht überprüft.
+
+Kurzfassung: Ein gelber, runder Ringkern mit grüner Aufschrift „T68-6“ liegt auf hellem Hintergrund; darunter steht mehrzeiliger erklärender Text mit Typ, Hersteller und technischen Daten.
+
+Detaillierte Beschreibung: Im Bildzentrum befindet sich ein glänzender, gelb lackierter Ringkern (Toroid) mit gleichmäßigem Querschnitt und kreisförmiger Öffnung; oben auf dem Ring ist mit grünem Filzstift „T68-6“ handschriftlich notiert. Der Hintergrund ist hellgrau bis beige. Unter dem Ring steht zentriert in schwarzer Schrift ein Block Text mit folgenden Zeilen: „Eisenpulverringkern Typ: T 68 – 6“, „Hersteller: Amidon“, „Innendurchmesser: 9,5 mm“, „Außendurchmesser: 18 mm“, „Kernmaterial: Nr. 6 gelb“, „A_L = 4,7 µH“, „Geeignet von 10 MHz bis 50 MHz“.

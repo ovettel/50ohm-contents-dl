@@ -1,0 +1,3 @@
+1) Kurzbeschreibung: Foto mit vier Widerständen in unterschiedlichen Bauformen (SMD, Schichtwiderstand, Folienwiderstand, Drahtwiderstand) mit Maßstab und Schaltzeichen für einen Widerstand.
+
+2) Ausführliche Beschreibung: Das Foto zeigt vier verschiedene Bauformen von Widerständen. Links ist das Schaltzeichen für einen Widerstand, ein Rechteck, mit „R“ beschriftet. Daneben steht ein vertikaler Doppelpfeil mit „1 cm“. Rechts davon liegen vier Bauteile: ein kleiner, rechteckiger SMD-Widerstand mit der Beschriftung „1 kΩ“ und „125 mW“, dann ein axialer Schichtwiderstand mit den Angaben „47 kΩ“ und „250 mW“. Rechts davon ist ein Folienwiderstand mit der Beschriftung „620 kΩ" und „2 W“ zu sehen. Am rechten Rand gibt es einen Drahtwiderstand mit „22 kΩ“ und „9 W“.

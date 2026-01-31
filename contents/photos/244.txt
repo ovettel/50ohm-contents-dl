@@ -1,0 +1,5 @@
+Dieser Alt-Text wurde noch nicht überprüft.
+
+1) Kurze Zusammenfassung: Ein rechteckiges EMI‑Filter im Metallgehäuse mit Typenschild liegt auf weißem Hintergrund; rechts führen drei isolierte Adern (blau, gelb‑grün, braun) aus dem Gerät.
+
+2) Detaillierte Beschreibung: Das silbern glänzende, rechteckige Gehäuse hat links einen schwarzen Montageflansch; auf der Oberseite befindet sich ein Etikett mit der Aufschrift „YUNPEN EMI FILTER“, Modell „YB06A3“, Nennwerten „6A“, „125/250V“, „50/60Hz“, Temperaturbereich „−25 bis +85°C“ sowie mehreren Prüf- und Zulassungszeichen. Ein Pfeil mit „LINE“ zeigt zum Flansch, ein Pfeil mit „LOAD“ nach rechts. Auf dem Etikett ist ein Schaltbild mit Bauteilangaben zu sehen, darunter „Lx: 2×0.7mH“, „Cx: 0.1µF“, „Cy: 2×3300pF X2“, mit Anschlusskennzeichnungen L, N und Erde-Symbol. Rechts treten drei Adern aus dem Gehäuse aus, jeweils mit schwarzem Schrumpfschlauch am Austritt; die Adern sind von oben nach unten blau, gelb‑grün und braun und verlaufen leicht nach rechts. Das Metall zeigt kleine Kratzer und matte Stellen; der Hintergrund ist eine glatte, weiße Fläche.

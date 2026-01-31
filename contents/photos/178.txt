@@ -1,0 +1,5 @@
+Dieser Alt-Text wurde noch nicht überprüft.
+
+Zusammenfassung: Foto von mehreren Kabeln mit einem weißen 5-poligen JST‑XH‑Stecker und zwei 5,5‑mm‑Rundkontakten, einem schwarzen Stecker (−) und einer roten Buchse (+).
+
+Detaillierte Beschreibung: In der Mitte befindet sich ein weißer 5-poliger JST‑XH‑Steckverbinder; links gehen fünf dünne, unterschiedlich farbige Leitungen ab (blau, gelb, weiß, gelb, orange). Rechts neben dem Stecker sind Linien mit Beschriftungen zu sehen: oben ein Minuszeichen, darunter U12, U23, U34, unten ein Pluszeichen; darüber steht „JST‑XH für Balancer“. Darunter verlaufen zwei dicke Silikonkabel: oben ein schwarzes Kabel mit vergoldetem 5,5‑mm‑Rundstecker, daneben die Aufschrift „− Pol“; darunter ein rotes Kabel mit vergoldeter 5,5‑mm‑Rundbuchse, daneben „+ Pol“. Rechts unten steht der Text „5,5 mm Stecker/Buchse für Lastanschluss“. Der Hintergrund ist weiß, der Fokus liegt auf den Anschlüssen.

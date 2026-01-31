@@ -1,0 +1,17 @@
+Dieser Alt-Text wurde noch nicht überprüft.
+
+Kurzbeschreibung: Bildschirmfoto eines Messdiagramms, das Scheinwiderstand (blaue Kurve) und Phasenwinkel (rote Kurve) zwischen etwa 0,9 und 5 MHz zeigt; die blaue Kurve fällt leicht, die rote verläuft nahe −90°.
+
+Detaillierte Beschreibung: 
+- Titel oben: „Scheinwiderstand & Phasenwinkel als Funktion der Frequenz“. 
+- Linke y-Achse: „|Z| / Ohm“ mit Skala von 1 bis 10000; rechte y-Achse: „Phi / Grad“ von −90° bis +90°. 
+- x-Achse: Frequenz von „900,000k“ bis „5,000M“. 
+- Blaue Kurve (Impedanzbetrag) verläuft abnehmend von grob um 70 Ohm bei ~1 MHz auf etwa 40–50 Ohm bei ~5 MHz; Dreiecksmarker mit den Ziffern 1–4 liegen auf der Kurve bei ungefähr 1, 2, 3 und 4 MHz. 
+- Rote Kurve (Phasenwinkel) verläuft dicht über der −90°-Linie und steigt leicht an (Markersymbole 1–4 ebenfalls entlang der Kurve). 
+- Unter dem Diagramm stehen Markerfelder mit Messwerten: 
+  - Marker 1: Frequenz 1,0010 MHz; Reell 0,8; Blind 102,6; Phase −89,5°; SWR 307,8. 
+  - Marker 2: Frequenz 2,0038 MHz; Reell 1,7; Blind −50,1; Phase −88,0°; SWR 58,4. 
+  - Marker 3: Frequenz 3,0051 MHz; Reell 1,8; Blind −31,4; Phase −86,7°; SWR 38,7. 
+  - Marker 4: Frequenz 4,0010 MHz; Reell 1,7; Blind −22,2; Phase −85,6°; SWR 35,2. 
+- Bedien- und Statuszeile unten: Eingabefelder „fStart 900,000k“ und „fStop 5,000M“, Länge 0,00 m, Typ „RG142“, Batteriesymbol mit „12,22 V“ (grüner Balken), „Memory Off“, sowie Schaltflächen mit Amateurfunkbändern (z. B. 2 m, 6 m, 10 m, 12 m, 15 m, 17 m, 20 m, 40 m, 80 m, 160 m). 
+- Hintergrund ist ein beiges Gitternetz mit Haupt- und Hilfslinien; Achsen und Kurven sind farblich (blau/rot) deutlich voneinander abgesetzt.

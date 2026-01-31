@@ -1,0 +1,5 @@
+Dieser Alt-Text wurde noch nicht überprüft.
+
+Kurzbeschreibung: Ein oranges Digitalmultimeter liegt neben einer kleinen Elektronik‑Platine mit grünem LED‑Display; das Multimeter zeigt 7.19 V, die Platine 24.1.
+
+Detaillierte Beschreibung: Links dominiert ein abgenutztes, orangefarbenes Hand‑Digitalmultimeter mit großem grauen LCD, auf dem „7.19“ steht, rechts daneben ein kleines „V“. Darunter sind mehrere graue Gummitasten mit Aufdrucken wie „MAX“, „REL“ und „AUTO“, ein schwarzer runder hFE‑Sockel sowie ein Drehschalter mit Skalen für DCV, Ω, CAP und FREQ. Rechts daneben liegt eine kleine grüne Leiterplatte mit bestückten Bauteilen: zwei silberne Elektrolytkondensatoren mit „35V“-Aufdruck, ein schwarzer rechteckiger Induktor, mehrere ICs und Widerstände sowie zwei blaue Schraubklemmen. Auf der Platine leuchtet eine dreistellige grüne 7‑Segment‑Anzeige mit „24.1“. Ein gelbes und ein blaues Kabel sind an eine der Klemmen angeschlossen und führen nach links aus dem Bild. Der Hintergrund ist eine weiße, matte Fläche.

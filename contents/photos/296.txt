@@ -1,0 +1,13 @@
+Dieser Alt-Text wurde noch nicht überprüft.
+
+Kurzfassung: Auf weißem Hintergrund liegen mehrere verschiedenfarbige elektronische Bauteile mit Anschlussdrähten und aufgedruckten Symbolen (+, −, ~), teils mit blauen Nummernkästchen (1, 2, 4, 5, 6, 7) markiert.
+
+Details:
+- Oben links (1): Schwarzer, annähernd quadratischer Block mit zentraler runder Metallbuchse; Aufdruck „AC“, sowie „+“ und „−“ auf der Vorderseite.
+- Oben rechts (2): Schwarzes, rechteckiges Gehäuse mit vier nach unten zeigenden Pins; Aufdruck „FAGOR B80 C5000/3300“ und Symbole „~“, „+“, „−“.
+- Mitte links (ohne Nummer): Schwarzes, rechteckiges Bauteil mit vier Pins; Aufdruck „BY225 100 E7033“ sowie Symbole „~“, „+“, „−“.
+- Bildmitte (4): Kleines rundes, schwarzes Bauteil (Scheibenform) mit vier langen, kreuzförmig abstehenden Drähten; Aufdruck u. a. „GIE C1000C“.
+- Rechts daneben (5): Orangefarbenes, rechteckiges Gehäuse mit vier kurzen Pins; Aufdruck mit Logo und „B 40 C 1500“ sowie Polaritäts- und Wechselspannungssymbole.
+- Unten links (6): Schwarzes, trapezförmiges Gehäuse mit vier Pins; Aufdruck „FAGOR FBU 4M“ und Symbole für „+“ und „−“.
+- Unten rechts (7): Grünes, rechteckiges Bauteil mit vier Pins; kleine runde Vertiefungen oben und Aufdruck mit „+“, „−“ und „~“-Symbolen.
+- Zusätzlich: Ein einzelner, langer, dünner Draht verläuft im Zentrum vertikal nach oben.

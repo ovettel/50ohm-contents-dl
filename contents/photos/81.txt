@@ -1,0 +1,3 @@
+1) Kurzbeschreibung: Zwei Fotos mit den Rückseiten zweier Funkgeräte mit diversen Anschlüssen; gelbe Pfeile markieren jeweils eine als GND beschriftete Masse-Schraube.
+
+2) Ausführliche Beschreibung: Die Abbildung besteht aus zwei Fotos mit den Rückseiten von Funkgeräten. Im oberen Foto ist eine schwarze Rückwand mit Kühlrippen links zu sehen. Rechts oben zeigt ein gelber Pfeil auf eine silberne Schraube mit gelber Beschriftung „GND“. Im unteren Foto ist die silbergraue Rückseite eines weiteren Geräts abgebildet. Links befindet sich eine durch einen gelben Pfeil mit „GND“ markierte Schraube.

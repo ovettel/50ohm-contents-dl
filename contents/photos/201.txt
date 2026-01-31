@@ -1,0 +1,5 @@
+Dieser Alt-Text wurde noch nicht überprüft.
+
+- Zusammenfassung: Ein Spektrumanalysator misst ein schwarzes, rechteckiges HF-Gehäuse auf einer Laborwerkbank über zwei Koaxkabel.
+
+- Detaillierte Beschreibung: Links steht ein weiß-grauer Rigol DSA815 (Beschriftung „Spectrum Analyzer 9 kHz–1.5 GHz“) mit Farbdisplay und vielen Tasten sowie einem großen Drehknopf. Auf dem Display ist ein schwarzes Messraster mit einer gelben Kurve zu sehen; ein Marker ist bei etwa 32,5 MHz eingeblendet und zeigt rund −3 dB an. Unten rechts am Gerät sind zwei koaxiale Anschlüsse belegt; von dort führen zwei schwarze Koaxkabel zu einem mattschwarzen, rechteckigen Metallgehäuse mit Koaxbuchsen an beiden Stirnseiten und Befestigungslaschen, das vorne auf der grünlichen Tischoberfläche liegt. Auf dem Tisch liegen außerdem zwei kleine, runde schwarze Kappen. Im Hintergrund sind eine Steckdose, ein Kippschalter mit Leuchte und Kabelkanäle an der Wand zu sehen.

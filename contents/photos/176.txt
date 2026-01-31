@@ -1,0 +1,5 @@
+Dieser Alt-Text wurde noch nicht überprüft.
+
+Kurzfassung: Ein Schaltbild zeigt vier in Reihe geschaltete Zellen B1–B4 mit jeweils 3,3 V und 4200 mAh, die zusammen eine Gesamtspannung von 13,2 V (4200 mAh) ergeben.
+
+Detailbeschreibung: Links ist ein Pluszeichen, rechts ein Minuszeichen; dazwischen verläuft eine horizontale Leitung. Am oberen Rand zeigt ein Pfeil nach rechts mit der Beschriftung „13,2 V 4200 mAh“. Darunter markieren weitere Pfeile Teilspannungen: von links bis etwa drei Viertel „9,9 V“ und rechts ein kurzer Pfeil „3,3 V“. Auf mittlerer Höhe sind zwei Pfeile nach rechts mit „6,6 V“ beschriftet, jeweils über der linken und rechten Hälfte. Vertikale gestrichelte Linien teilen die Grafik in vier gleiche Abschnitte. Unten sind vier Batteriesymbole nebeneinander mit den Bezeichnungen „B1“, „B2“, „B3“, „B4“ darüber; unter jedem Symbol steht ein Pfeil nach rechts mit „3,3 V“ und darunter „4200 mAh“. Die Anordnung visualisiert die Spannungsaufsummierung der vier Zellen bei gleichbleibender Kapazität.

@@ -1,0 +1,7 @@
+Dieser Alt-Text wurde noch nicht überprüft.
+
+1) Kurze Zusammenfassung:
+Rechteckiges, silbernes EPCOS-Bauteil im Metallgehäuse mit aufgedruckten technischen Daten und Schaltbild; an beiden Seiten ragen je zwei Anschlüsse durch blaue Isolatoren heraus.
+
+2) Detaillierte Beschreibung:
+Das Foto zeigt frontal ein graues/silbernes Metallgehäuse mit abgerundeten Kanten und einer seitlichen Befestigungslasche mit rundem Loch links. Links und rechts sind jeweils zwei flache Anschlussfahnen zu sehen, die durch blaue Isolatoren geführt werden. Auf der Gehäusefront steht oben links „EPCOS“ und „SIFI B“. Oben rechts sind Typ- und Leistungsdaten aufgedruckt: „B84112-B-B110“, „115/250V 10A“, „50/60 Hz“, „25/085/21“, „T amb. = 40°C“. Darunter befinden sich mehrere Prüf- und Normzeichen (u. a. ein „UR“-Symbol, ein rundes „CSA“-ähnliches Zeichen und ein Dreieck mit „VDE“), sowie der Text „EN 133 221 CCA“. In einem eingerahmten Feld ist ein Schaltbild mit Beschriftungen dargestellt: links „LINE“ mit „N“ und „L“, rechts „LOAD“ mit „N“ und „L“; eingezeichnet sind Kondensatoren und Drosseln, beschriftet u. a. mit „0,47 µF (X2) SH“, „2 x 1,8 mH“, „2 x 4,7 nF (Y2)“ und ein Widerstand „340 kΩ“. Links neben dem Schaltbild ist das Erdungssymbol abgebildet. Unten mittig steht „01.01“. Die Oberfläche wirkt matt und leicht gebürstet; Hintergrund ist neutral hell.

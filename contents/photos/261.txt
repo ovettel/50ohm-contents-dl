@@ -1,0 +1,7 @@
+Dieser Alt-Text wurde noch nicht überprüft.
+
+1) Kurze Zusammenfassung:
+Schaubild mit Vektor-/Dreiecksdiagramm zum Verlustfaktor tan δ eines Kondensators, mit Formeln und beschrifteten Pfeilen für Blindwiderstand Xc, Scheinwiderstand Z und Verlustwiderstand R.
+
+2) Detaillierte Beschreibung:
+Links steht der Text „Verlustfaktor tan δ (sprich: tangens delta).“ Darunter in Rot die Formeln „tan δ = Gegenkathete / Ankathete“ und „tan δ = R / Xc“. Rechts zeigt eine grafische Darstellung aus Pfeilen und Linien: ein vertikaler violetter Pfeil ist mit „Blindwiderstand Xc“ beschriftet; von dessen Fußpunkt führt eine schräg nach oben weisende dunkle Linie, neben der „Scheinwiderstand Z“ in Blau steht; oben ist eine rote Kante mit der Beschriftung „Verlustwiderstand R“ eingezeichnet. Zwischen der schrägen Linie und der vertikalen Achse sind zwei Winkel markiert: oben der Winkel „φ“, unten nahe der Spitze ein rotes, eingekreistes „δ“. Unten im Bild steht in Blau: „Der tan δ eines Kondensators soll sehr klein sein! Ideal (ohne Verluste R = 0 Ohm): tan δ = 0“. Die Beschriftungen sind farbcodiert (Rot, Blau, Schwarz/Violett).

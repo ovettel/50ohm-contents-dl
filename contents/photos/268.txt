@@ -1,0 +1,5 @@
+Dieser Alt-Text wurde noch nicht überprüft.
+
+1. Zusammenfassung: Ein analoges Oszilloskop zeigt zwei phasenverschobene Sinuskurven auf blauem Raster, daneben sind zahlreiche Drehknöpfe und Tasten der Frontplatte sichtbar.
+
+2. Details: Das Gerät ist frontal zu sehen, links der rechteckige CRT-Bildschirm mit feinem, hellblauem Gitter. Auf dem Schirm verlaufen zwei hellblaue Sinuskurven; die obere ist mit „I“ beschriftet und liegt zeitlich vor der unteren, die mit „U“ markiert ist. Eine horizontale Referenzlinie mit Pfeil nach rechts ist mit „t“ gekennzeichnet. Am unteren Bildschirmrand steht der Text „I eilt U um 90 Grad voraus!“. Rechts vom Bildschirm befindet sich die Bedieneinheit mit einem Schalter „POWER on/off“, Drehknöpfen „X-POS.“ und „Y-POS. I“, Tastenfeldern und einem Bereich „CH. I“. Unten rechts ist eine Eingangsbuchse mit der Beschriftung „INPUT 1 MΩ 25 pF“ zu sehen, unten links mehrere Regler wie „INTEN“, „FOCUS“, „MAG.“, „CAL 0.2V“ sowie ein Feld „COMPONENT TESTER“. Das Gehäuse ist hellgrau, die Bedienelemente sind überwiegend in Grau- und Grüntönen.

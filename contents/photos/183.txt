@@ -1,0 +1,5 @@
+Dieser Alt-Text wurde noch nicht überprüft.
+
+Kurzfassung: Ein Koordinatendiagramm mit fallender Geraden zwischen der Spannungsachse U (mit Uq) und der Stromachse I (mit Ik) sowie der Formel Ri = -ΔU/ΔI.
+
+Detaillierte Beschreibung: Das Bild zeigt ein zweiachsiges Diagramm mit Pfeilen an beiden Achsen; die vertikale Achse ist mit U beschriftet, die horizontale mit I. Auf der vertikalen Achse nahe dem Ursprung steht Uq. Eine schwarze, gerade Linie beginnt links oben nahe Uq und verläuft schräg abfallend nach rechts, bis sie die horizontale Achse schneidet; am Schnittpunkt auf der I-Achse steht Ik. In der Mitte über der Linie ist die Gleichung Ri = -ΔU/ΔI platziert. Es gibt keine Zahlen, Einheiten, Gitterlinien oder weiteren Markierungen; die Grafik ist als einfache Strichzeichnung gehalten.

@@ -1,0 +1,7 @@
+Dieser Alt-Text wurde noch nicht überprüft.
+
+1. Kurze Zusammenfassung:
+Vier große, schwarze Elektrolytkondensatoren sind in einem Metallgehäuse montiert und über zwei verschraubte Aluminiumschienen mit roten Anschlusskabeln verbunden, mit handschriftlichen Plus/Minus-Markierungen und der Aufschrift „+50V“ sowie „7 × 10000 µF“.
+
+2. Detaillierte Beschreibung:
+Im Vordergrund befinden sich vier zylinderförmige, schwarze Kondensatoren in einer Reihe, mit hellen Aufdrucken wie „10000 µF -10…+30%“ und dem Markenaufdruck „BEKO“; sie stehen in einer Metallwanne. Darüber liegen zwei parallel verlaufende, silberfarbene Aluminiumschienen, die mit mehreren Sechskantschrauben und Unterlegscheiben verschraubt sind. Auf der oberen Schiene sind handschriftliche Kennzeichnungen zu sehen: ein rotes „+“, ein schwarzes „-“, sowie in schwarzer Schrift „7 × 10000 µF“. Auf der unteren Schiene steht in roter Schrift „+50V“. An den Enden und an mehreren Punkten der Schienen sind rote Leitungen mit Ringkabelschuhen angeschlossen; einige Anschlüsse sind mit transparenten Isolierschläuchen versehen. Im Hintergrund sind weitere Bauteile, Leiter, Lötstellen und mehrfarbige Kabel innerhalb des Metallchassis sichtbar. Die Szene zeigt eine geordnete, verschraubte Verdrahtung, nummerierte Markierungen an einzelnen Schrauben und ein insgesamt sauber aufgebautes Modul innerhalb eines größeren elektronischen Geräts.

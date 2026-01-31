@@ -1,0 +1,3 @@
+1) Kurzbeschreibung:  Tabellarische Übersicht über die Nutzungsbedingungen der Frequenzbereiche für den Amateurfunkdienst in Deutschland (Anlage 1 der Verordnung über den Amateurfunk (AfuV)).
+
+2) Ausführliche Beschreibung: Die Tabelle zeigt die Frequenzbereiche für den Amateurfunkdienst in Deutschland mit Angabe der maximalen Leistung, getrennt nach den drei Klassen A, E und N. Die Tabelle ist der Anlage 1 der Verordnung über den Amateurfunk (AfuV) entnommen.

@@ -1,0 +1,5 @@
+Dieser Alt-Text wurde noch nicht überprüft.
+
+Zusammenfassung: Makroaufnahme einer grünen Leiterplatte, auf der der markierte Bestückungsplatz C65 mit zwei dunklen, beschädigt wirkenden Lötpads zu sehen ist, während oben drüber dicke Kabel verlaufen.
+
+Detaillierte Beschreibung: In der Bildmitte ist ein roter Rahmen um den Bereich mit der weißen Aufschrift „C65“ und einem aufgedruckten Kondensatorsymbol gesetzt; die beiden zugehörigen Lötflächen sind uneben und dunkel verfärbt, mit Resten von Anschlussmaterial. Rechts daneben ist ein silberfarbener Schraubkopf (sternförfer Antrieb) zu sehen, der eine Ringkabelschuh-Lasche auf der Leiterbahn fixiert. Oberhalb des markierten Bereichs verlaufen zwei kräftige Kabel/Leitungen, eines dunkel mit rotem Innenmantel, das andere graumetallisch glänzend; sie werfen Schatten auf die Platine. Links ist der Rand eines kleinen Aluminiumkühlkörpers mit Rippen erkennbar. Auf der grünen Platine gibt es weiße Bestückungsdrucke, darunter teilweise lesbar „MOV1“, sowie eine breite weiße Leiterplattenmarkierung quer durch das Bild. Starke Punktbeleuchtung erzeugt Reflexe und harte Schatten.

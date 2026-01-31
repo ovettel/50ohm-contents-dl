@@ -1,0 +1,3 @@
+1) Kurzbeschreibung: Foto mit fünf Koaxialkabeln in unterschiedlichen Bauformen mit abisolierten Enden, jeweils beschriftet.
+
+2) Ausführliche Beschreibung: Das Foto zeigt fünf Koaxialkabel in unterschiedlichen Bauformen, vier davon mit jeweils abisolierten Enden. Links ist ein Kabel aus PE-Schaum und Massivschirm mit einem Durchmesser von 16,4 mm zu sehen. Daneben liegt ein Kabel vom Typ RG213 aus Voll-PE mit einem Durchmesser von 10,3 mm. Es folgt ein dünnes Kabel des Typs RG223 ohne weitere Erklärung. Weiter rechts ist ein ebenfalls dünnes Kabel vom Typ RG58 aus Voll-PE mit einem Durchmesser von 4,95 mm und mit montiertem PL-Stecker am Ende abgebildet. Ganz rechts liegt ein sehr dünnes RG174-Kabel aus Voll-PE mit einem Durchmesser von 2,8 mm.

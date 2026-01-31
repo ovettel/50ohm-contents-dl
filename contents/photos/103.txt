@@ -1,0 +1,3 @@
+1) Kurzbeschreibung: Tabelle mit der Überschrift „4.5 IARU Bandplan 70cm“ über den Frequenzbereich 430–440 MHz mit Angaben zu den einzelnen Bereichssegmenten („Frequency Segment“), zur maximalen Bandbreite („Max.“) und der bevorzugten Betriebsart und Nutzung („Preferred Mode and Usage“).
+
+2) Ausführliche Beschreibung: Die Tabelle mit der Überschrift „4.5 IARU Bandplan 70cm“ bezieht sich auf den Frequenzbereich „430–440 MHz“ (linker Rand). Die Tabelle hat die drei Spalten „Frequency Segment“, „Max.“ und „Preferred Mode and Usage“. Der komplette Bandplan ist auf https://50ohm.de/hm zu finden.

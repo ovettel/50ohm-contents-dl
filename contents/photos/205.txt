@@ -1,0 +1,3 @@
+1) Kurzbeschreibung: Foto mit vier LEDs in unterschiedlichen Bauformen (SMD, Grün, Gelb, Rot) mit Maßstab und Schaltzeichen für eine LED.
+
+2) Ausführliche Beschreibung: Das Foto zeigt vier verschiedene Bauformen von Leuchtdioden. Links ist das Schaltzeichen für eine Leuchtdiode, ein nach oben gerichtetes Dreieck mit Querstrich an der Spitze und zwei nach rechts oben gerichteten Pfeilen, mit „D“ beschriftet. Daneben steht ein vertikaler Doppelpfeil mit „1 cm“. Rechts davon liegen vier Bauteile: zunächst eine kleine SMD-LED, daneben eine kleinere, grüne Rund-LED mit der Maßangabe 3 mm. Es folgt eine etwas größere, gelbe LED in Rechteckform ohne Bemaßung. Ganz rechts ist eine große, rote Rund-LED mit zwei langen Anschlussdrähten abgebildet, mit der Maßangabe 10 mm.

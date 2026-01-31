@@ -1,0 +1,5 @@
+Dieser Alt-Text wurde noch nicht überprüft.
+
+1) Zusammenfassung: Schaltbild einer Spannungsquelle mit Innenwiderstand Ri und einem rechts angeschlossenen Lastwiderstand RL, mit eingezeichneten Strömen und Klemmen­spannung.
+
+2) Detaillierte Beschreibung: Links ist ein gestrichelter Kasten; darin links ein Batteriesymbol mit der Beschriftung Uq und einem nach unten zeigenden Pfeil, rechts davon ein vertikal angeordneter Widerstand mit der Beschriftung Ri zwischen zwei schwarzen Knotenpunkten; daneben zeigt ein nach unten gerichteter Pfeil den Strom Ii an. Die beiden Knoten sind als offene runde Klemmen nach rechts herausgeführt; zwischen diesen Klemmen steht Uk mit einem nach unten zeigenden Pfeil. Von der oberen offenen Klemme führt eine Leitung nach rechts, darüber ein nach rechts gerichteter Pfeil mit der Beschriftung I; rechts befindet sich ein vertikal gezeichneter Rechteck-Widerstand mit der Beschriftung RL. Unten verläuft die Leitung zurück zur unteren offenen Klemme und schließt den Stromkreis.

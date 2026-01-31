@@ -1,0 +1,5 @@
+Dieser Alt-Text wurde noch nicht überprüft.
+
+Kurzfassung: Schaltbild eines Batteriepacks mit acht Zellen: zwei parallel geschaltete Vierer-Serien, Gesamtwert 13,2 V und 8400 mAh.
+
+Detaillierte Beschreibung: Die Zeichnung zeigt links einen Pluspol und rechts einen Minuspol als offene Kreise mit +/–. Zwischen zwei seitlichen Sammelschienen liegen acht als Kondensator-Symbole gezeichnete Batteriezellen B1 bis B8. Obere Reihe: B1–B4 in Serie von links nach rechts; untere Reihe: B5–B8 in Serie von rechts nach links; beide Reihen sind an den Seiten leitend verbunden (Parallelschaltung der beiden Serienstränge). Jede Zelle ist mit „3,3 V“ und „4200 mAh“ sowie einem kleinen Pfeil nach rechts beschriftet. Oben markieren Pfeile die Summenspannungen: über die gesamte Breite „13,2 V 8400 mAh“, darüber hinaus Teilpfeile mit „9,9 V“, „6,6 V“ und „3,3 V“ entsprechend der Abschnittslängen; gestrichelte Vertikallinien teilen das Schema in vier gleich breite Abschnitte. Gefüllte Punkte kennzeichnen die Seitenschienen‑Anschlüsse der Serienstränge.

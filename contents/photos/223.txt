@@ -1,0 +1,5 @@
+Dieser Alt-Text wurde noch nicht überprüft.
+
+1) Kurzzusammenfassung: Drei schwarze Oszilloskop‑Tastköpfe liegen parallel auf einer hellen Holzoberfläche.
+
+2) Detailbeschreibung: Die drei Sonden sind horizontal ausgerichtet, mit den Spitzen nach links und den Kabeln nach rechts. Oben befindet sich ein schwarzer Tastkopf mit der Aufschrift „PVP2350“, Warnsymbol und gelbem Ring an der Zugentlastung; die Spitze ist mit einer länglichen schwarzen Schutzkappe versehen. In der Mitte liegt ein schwarzer Tastkopf mit blauem Einstellring und der blauen Beschriftung „x10“, „TESATEC“, „SERIE LF“, „Max. 600V“; an der Spitze ist eine kleine Haken- oder Steckspitze sichtbar, teils von einer kurzen Kappe umgeben. Unten liegt ein weiterer schwarzer Tastkopf mit weiß/blauer Beschriftung „x1“, „TESATEC“, „max. 400Vp“; hier ist eine feine, nadelförmige Metallspitze freiliegt. Die Gehäuse haben gerippte Griffflächen, die Kabel führen nach rechts aus dem Bild, und die Holzoberfläche zeigt deutliche Maserung.

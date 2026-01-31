@@ -1,0 +1,3 @@
+1) Kurzbeschreibung: Landkarte von Norddeutschland und angrenzenden Gebieten, mit hellblauen Ozeanen und weißen Landflächen, überlagert von einem gleichmäßigen blauen Raster, dessen Felder jeweils mit einem Code aus den Buchstaben „JO“ und zwei Ziffern beschriftet sind.
+
+2) Ausführliche Beschreibung: Die Abbildung zeigt eine Landkarte von Norddeutschland, Südskandinavien, den Niederlanden und Nordbelgien sowie Westpolen mit hellblauen Ozeanen und weißen Landflächen. Die Karte ist überlagert von einem gleichmäßigen Raster aus dunkelblauen Linien, dessen Felder jeweils mit einem Code aus den Buchstaben „JO“ und zwei Ziffern beschriftet sind.

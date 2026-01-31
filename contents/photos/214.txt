@@ -1,0 +1,5 @@
+Dieser Alt-Text wurde noch nicht überprüft.
+
+Zusammenfassung: Oszilloskopanzeige mit einer türkisen, sinusförmigen Kurve auf schwarzem Raster.
+
+Detaillierte Beschreibung: Das Bild zeigt einen schwarzen Bildschirm mit feinem, grauem Gitter. Eine durchgehende, leuchtend türkise Kurve verläuft von links nach rechts und bildet eine regelmäßige Sinuswelle mit mehreren Wellenbergen und -tälern, symmetrisch um die Bildschirmmitte. Oben links steht in einem dunklen Feld „H 50.0ns“. Unten links ist ein cyanfarbener Kasten mit „2“ und „500 mV“ zu sehen; am linken Rand befindet sich ebenfalls ein kleines cyanfarbenes „2“-Label für den aktiven Kanal. Oben mittig ist ein kleines, gelbes Trigger-Dreieck, rechts mittig ein gelbes „T“-Marker am Rand. Die Kurve ist glatt, gleichmäßig und folgt dem Raster horizontal über den gesamten Anzeigebereich.

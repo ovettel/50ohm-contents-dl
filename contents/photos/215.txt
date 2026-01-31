@@ -1,0 +1,5 @@
+Dieser Alt-Text wurde noch nicht überprüft.
+
+Kurzfassung: Oszilloskopanzeige mit einer gelben Sinuskurve im oberen Bereich und einer cyanfarbenen, annähernd rechteckigen Kurve im unteren Bereich.
+
+Detaillierte Beschreibung: Schwarzer Bildschirm mit feinem grauen Raster. Oben links steht „H 200us“. Links am Rand sind die Kanalmarken „1“ (gelb) und „2“ (cyan) zu sehen. Die gelbe Spur verläuft im oberen Bildbereich als gleichmäßige, glatte Sinuswelle und wiederholt sich mehrfach über die Breite. Die cyanfarbene Spur liegt im unteren Bildbereich und zeigt ein periodisches Signal mit flachen Plateaus oben und unten sowie schrägen Anstiegs- und Abfallflanken, ebenfalls mehrfach über die Breite. In der oberen Randlinie befindet sich mittig ein kleines orangefarbenes Symbol; am rechten Rand sind orange Markierungen mit „T“. Unten links zeigt die Legende farbcodiert „1 = 2.00 V“ und „2 = 5.00 V“.

@@ -1,0 +1,5 @@
+Dieser Alt-Text wurde noch nicht überprüft.
+
+1. Zusammenfassung: Langer, schmaler Elektronikaufbau auf grünem Lochrasterboard mit drei ringförmigen Kupferspulen und mehreren kleinen braunen Bauteilen zwischen zwei goldfarbenen Koaxanschlüssen.
+
+2. Detaillierte Beschreibung: Auf einem rechteckigen, grünen Lochrasterboard mit Reihen aus runden Lötaugen sind drei gleichartige, ringförmige Spulen aus lackiertem Kupferdraht auf gelblichen Kernen in einer Linie angeordnet. Dazwischen und daneben sitzen mehrere kleine, braun glänzende, tropfenförmige Bauteile (per Drahtanschluss eingelötet). An beiden Stirnseiten des Boards befinden sich goldfarbene, koaxiale Buchsen/Stecker mit verlöteten Mittelkontakten und seitlichen Lötfahnen zur Masse. Die Lötstellen sind sichtbar, teils mit dunklen Flussmittelspuren. Das Board liegt schräg auf einer grauen, leicht strukturierten Oberfläche; die Beleuchtung kommt von oben links und erzeugt weiche Schatten.

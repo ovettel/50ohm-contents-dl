@@ -1,0 +1,5 @@
+Dieser Alt-Text wurde noch nicht überprüft.
+
+Kurzfassung: Vektordiagramm eines rechtwinkligen Impedanzdreiecks mit den Achsen R und X_L, dem diagonalen Zeiger Z sowie den Markierungen I und φ.
+
+Detailbeschreibung: Unten verläuft eine schwarze horizontale Achse nach rechts, mit der Beschriftung R; am rechten Ende steht eine schwarze vertikale Achse nach oben, beschriftet X_L. Vom linken unteren Eckpunkt führt eine blaue Diagonale mit Pfeilspitze schräg nach oben rechts zur Spitze der vertikalen Achse und ist mit Z gekennzeichnet. Auf der unteren Horizontalen liegt ein roter Pfeil nach rechts, beschriftet I. Zwischen der roten Horizontalen und der blauen Diagonalen ist am linken Eck der Winkel φ in Magenta eingezeichnet.

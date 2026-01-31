@@ -1,0 +1,5 @@
+Dieser Alt-Text wurde noch nicht überprüft.
+
+1) Kurzzusammenfassung: Ein flanschmontierbarer IEC-Netzeinbaustecker mit integriertem Filter von Schaffner liegt auf weißem Hintergrund.
+
+2) Detaillierte Beschreibung: Links ist die schwarze Kunststofffront mit einem dreipoligen IEC-C14-Einlass und zwei Befestigungsbohrungen zu sehen, daran schließt sich ein längliches Metallgehäuse an. Auf der Oberseite klebt ein weißes Typenschild mit der Aufschrift „SCHAFFNER – MADE IN SWITZERLAND – FN 322-…“, mit Angaben wie „110/250 V~ 50/60 Hz“ und „3 A“, einem kleinen Schaltbild (mit Beschriftungen „2× 2 mH“, „0,015 µF (X2)“ und „2× 2200 pF (Y)“) sowie mehreren Prüf- und Zulassungszeichen. Rechts ragen zwei Flachsteckkontakte aus dem Gehäuse heraus; an der Seite ist eine Zahl (z. B. „8402“) aufgedruckt. Die Aufnahme ist leicht seitlich gedreht, die Farben sind Schwarz, Grau und Weiß, mit leichten Gebrauchsspuren am Gehäuse.

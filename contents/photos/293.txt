@@ -1,0 +1,5 @@
+Dieser Alt-Text wurde noch nicht überprüft.
+
+Zusammenfassung: Ausschnitt der Frontplatte eines schwarzen elektronischen Geräts mit der Aufschrift „GRUNDIG electronic“, Reglern, beleuchteter Taste und BNC-Anschluss, beschriftet mit „OUTPUT“.
+
+Detaillierte Beschreibung: Oben mittig steht das Logo „GRUNDIG electronic“. Darunter links befindet sich ein horizontaler Schiebeschalter unter Symbolen für Sinus und Rechteck sowie der Beschriftung „Ueff 0,6V 6V“. Rechts davon ist ein gerändelter Drehknopf mit der Beschriftung „AMPL.“. Auf Höhe dieser Elemente steht groß „OUTPUT“. In der unteren Reihe sind vier runde Drucktasten/Linsen angeordnet; die dritte von links leuchtet grün. Darüber steht „Ueff ~ 0,6 2 6 V“, rechts daneben „EIN/AUS“ mit einem zweistufigen Symbol. Rechts unten sitzt eine runde Metallbuchse (BNC) mit Pfeilsymbol, daneben die Beschriftungen „Ri ~ 200Ω 75Ω“ und „EMK max. 6 V“. Die Bereiche sind durch weiße Linien eingerahmt; die Front ist schwarz mit weißer Beschriftung und hat sichtbare Schrauben in den Ecken.

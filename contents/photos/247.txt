@@ -1,0 +1,5 @@
+Dieser Alt-Text wurde noch nicht überprüft.
+
+1) Kurze Zusammenfassung: Ein analoges Oszilloskop zeigt zwei grün leuchtende, gekrümmte Signalverläufe mit deutschsprachigen Beschriftungen zu Kondensator-Laden und -Entladen; rechts und unten sind die Bedienknöpfe des Geräts sichtbar.
+
+2) Detaillierte Beschreibung: Auf dem blauen Röhrenbildschirm mit feinem Gitternetz sind zwei helle, türkisgrüne Kurven dargestellt. In der oberen Bildhälfte verläuft eine segmentweise an- und absteigende, exponentiell gekrümmte Spur; darüber und daneben stehen die eingeblendeten Texte „Spannung am Kondensator“, „Entladen“ und „Laden“. In der unteren Bildhälfte ist eine zweite, ebenfalls gekrümmte Spur zu sehen, die ober- und unterhalb einer Nulllinie verläuft; darunter steht „Stromverlauf im Kondensator“. Zwei durchgezogene, schwarze horizontale Bezugslinien mit der Markierung „0“ am linken Rand teilen die oberen und unteren Kurven. Das Gerät besitzt einen grauen Rahmen; rechts und unten sind Drehknöpfe und Schalter mit Beschriftungen wie „X-POS“, „Y-POS“, „VOLTS/DIV“, „CH.1“, „INPUT 1 MΩ 25 pF“, „HOLD OFF“ sowie ein Anschluss „COMPONENT TESTER“ erkennbar.

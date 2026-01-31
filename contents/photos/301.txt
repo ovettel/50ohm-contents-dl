@@ -1,0 +1,5 @@
+Dieser Alt-Text wurde noch nicht überprüft.
+
+1. Kurzzusammenfassung: Schematische Grafik mit farbigen Pfeilen und den Beschriftungen R = 100 Ω, X_C = 159 Ω, Z = 188 Ω sowie den Symbolen I, U und φ.
+
+2. Detaillierte Beschreibung: Ein schwarzer Pfeil zeigt nach rechts und ist mit „R = 100 Ω“ beschriftet; an dessen Spitze hängt ein schwarzer Pfeil nach unten mit der Beschriftung „X_C = 159 Ω“. Vom gemeinsamen Startpunkt der Pfeile verläuft ein grüner Pfeil schräg nach rechts unten mit der Aufschrift „Z = 188 Ω“. Ein blauer Pfeil mit dem Buchstaben „U“ verläuft ebenfalls schräg nach rechts unten, etwas oberhalb bzw. mit kleinerem Neigungswinkel als der grüne Pfeil. Oben links zeigt ein roter Pfeil nach rechts, beschriftet mit „I“. Zwischen dem roten Pfeil „I“ und dem blauen Pfeil „U“ steht ein violettes φ, das den Winkel zwischen diesen beiden Pfeilen markiert. Die schwarzen Pfeile für R und X_C stehen zueinander rechtwinklig und bilden zusammen mit dem grünen Z-Pfeil ein Dreieck.

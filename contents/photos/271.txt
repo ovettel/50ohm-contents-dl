@@ -1,0 +1,12 @@
+Dieser Alt-Text wurde noch nicht überprüft.
+
+1) Kurzbeschreibung: Ein dunkelgrauer, ringförmiger Ferritkern liegt zentriert auf hellem Hintergrund, darunter steht ein mehrzeiliger schwarzer Text mit Typ- und Maßangaben.
+
+2) Detaillierte Beschreibung: In der Bildmitte befindet sich ein kleiner, matt dunkelgrauer Toroid (Ringkern) mit rundem Querschnitt; er wirft einen leichten Schatten auf den hellen, leicht strukturierten Untergrund. Unterhalb des Rings ist in schwarzer Schrift folgender Text zu sehen:
+- „Ferritkern Typ: FT 50 – 77“
+- „Hersteller: Fair-Rite“
+- „Außendurchmesser: 12,7 mm“
+- „Innendurchmesser: 7,14 mm“
+- „Kernmaterial: 77 (Mangan-Zink)“
+- „AL = 1180 nH“
+- „Für Breitbandtransformatoren von 0,5 MHz bis 50 MHz“

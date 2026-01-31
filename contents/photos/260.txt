@@ -1,0 +1,5 @@
+Dieser Alt-Text wurde noch nicht überprüft.
+
+1) Kurzfassung: Schemazeichnung eines realen Kondensators mit parallel geschaltetem Isolationswiderstand sowie in Serie angeordnetem Widerstand und einer Induktivität, begleitet von erklärendem Text.
+
+2) Detaillierte Beschreibung: Auf weißem Hintergrund steht oben groß „Ersatzschaltbild eines realen Kondensators!“. Rechts daneben/ darunter steht in Klammern „(Equivalent Series Resistance)“, wobei „ESR“ farblich hervorgehoben und wellig unterstrichen ist. Links zeigt ein Schaltbild zwei Anschlussklemmen mit einem Kondensatorsymbol „C“, parallel dazu ein Widerstand mit der Beschriftung „Risol“; dieser Teil ist mit einem roten Kreis markiert. Rechts davon sind in Serie ein Widerstand „RESR“ und eine Spule „LESL“ angeordnet; dieser Teil ist mit einem blauen Kreis markiert. Unten rechts erscheint roter Text: „Ideal: tan δ = 0 bei ESR = 0 Ω!“. Alle Schaltlinien und Bauteilsymbole sind schwarz.

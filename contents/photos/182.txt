@@ -1,0 +1,5 @@
+Dieser Alt-Text wurde noch nicht überprüft.
+
+1) Kurzfassung: Schaltskizze eines einfachen Stromkreises mit linkem, gestrichelt umrandetem Block aus Innenwiderstand Ri und Spannungsquelle Uq sowie einem Lastwiderstand RL rechts; Pfeile markieren Strom I und Klemmenspannung Uk.
+
+2) Detaillierte Beschreibung: Links ist ein hochkant stehender, gestrichelter Rahmen, der zwei Bauteile umfasst: oben ein als Rechteck gezeichneter Widerstand mit der Beschriftung Ri, darunter ein Batteriesymbol; daneben steht Uq mit einem nach unten gerichteten Pfeil. Oben und unten am Rahmen sind runde Klemmpunkte eingezeichnet, die über Leitungen den restlichen Kreis bilden. Rechts in der vertikalen Leitung befindet sich ein weiterer rechteckiger Widerstand, mit RL beschriftet. Auf der oberen Verbindungsleitung zeigt ein Pfeil nach rechts und ist mit I gekennzeichnet. Zwischen den beiden Klemmpunkten in der Mitte zeigt ein langer Pfeil nach unten mit der Beschriftung Uk. Die Leitungen verbinden alle Elemente zu einem geschlossenen rechteckigen Strompfad.

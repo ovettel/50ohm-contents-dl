@@ -1,0 +1,17 @@
+Dieser Alt-Text wurde noch nicht überprüft.
+
+1) Zusammenfassung:
+Screenshot eines Messprogramms mit dem Diagramm „Scheinwiderstand & Phasenwinkel als Funktion der Frequenz“ (500 kHz bis 10 MHz), einer blau ansteigenden |Z|-Kurve, einer roten nahezu konstanten Phasenlinie nahe +90° und vier gesetzten Markern.
+
+2) Detaillierte Beschreibung:
+- Titel oben: „Scheinwiderstand & Phasenwinkel als Funktion der Frequenz“.
+- Linke Skala: „|Z| / Ohm“ (logarithmisch, von 2 bis 10.000). Rechte Skala: „Phi / Grad“ (−90° bis +90°, 0° in der Mitte).
+- Datenverläufe: Blaue Kurve (Scheinwiderstand) steigt im unteren zweistelligen Ohm-Bereich über die Frequenz an. Rote Linie (Phasenwinkel) verläuft am oberen Rand nahezu horizontal nahe +90°.
+- Frequenzachse unten: 500 kHz bis 10 MHz; Markierungen bei 1M, 2M, 5M u. a.
+- Marker 1–4 sind als kleine Dreiecke mit Zahlen auf der blauen Kurve bei etwa 0,5 MHz, 1,6 MHz, 2,5 MHz und 5,0 MHz platziert.
+- Werteanzeige der Marker (aus den Feldern unten):
+  - Marker 1: Frequenz 502,217 kHz; Reell: 0,4; Blind: 10,1; Phase: 87,7; SWR: 130.1
+  - Marker 2: Frequenz 1,6010 MHz; Reell: 0,6; Blind: 31,0; Phase: 88,9; SWR: 115.4
+  - Marker 3: Frequenz 2,5032 MHz; Reell: 0,8; Blind: 49,1; Phase: 89,2; SWR: 122.8
+  - Marker 4: Frequenz 4,9921 MHz; Reell: 1,2; Blind: 99,3; Phase: 89,7; SWR: 412.3
+- Bedienleiste unten: fStart 500,000 k (links), fStop 10,000 M (rechts); Typ „RG58/CU“; Länge 0,00 m; Batterieanzeige 12,20 V; „Memory Off“; Spur „2“ ausgewählt.

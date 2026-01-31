@@ -1,0 +1,5 @@
+Dieser Alt-Text wurde noch nicht überprüft.
+
+1) Kurze Zusammenfassung: Farbiges Vektordiagramm mit Pfeilen und Beschriftungen zu I, R = 100 Ω, X_L = 628 Ω, Z = 636 Ω, U und φ.
+
+2) Detaillierte Beschreibung: Auf weißem Hintergrund starten mehrere Pfeile an einem gemeinsamen Punkt links unten. Ein roter Pfeil zeigt waagerecht nach rechts und ist mit I beschriftet; daneben steht in schwarz „R = 100 Ω“. Ein langer schwarzer Pfeil zeigt senkrecht nach oben und ist mit „X_L = 628 Ω“ beschriftet. Ein langer grüner Pfeil verläuft schräg nach oben rechts und trägt die Beschriftung „Z = 636 Ω“. Ein kurzer blauer Pfeil zeigt schräg nach oben, nahe dem Startpunkt, und ist mit „U“ gekennzeichnet. Direkt am Ursprung befindet sich in Magenta der griechische Buchstabe φ. Die Pfeile bilden optisch ein rechtwinkliges Dreieck aus horizontaler, vertikaler und schräger Komponente.

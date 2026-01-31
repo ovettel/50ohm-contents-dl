@@ -1,0 +1,5 @@
+Dieser Alt-Text wurde noch nicht überprüft.
+
+Zusammenfassung: Nahaufnahme einer kleinen grünen Leiterplatte mit mehreren SMD-Bauteilen, darunter ein metallisches Bauteil mit Aufdruck „4.000“, ein schwarzes IC-Gehäuse und ein weißes, verstellbares Trimmelement mit Schlitz.
+
+Detaillierte Beschreibung: Links sitzt ein längliches, ovales Metallbauteil mit der Prägung „4.000“ auf einem schwarzen Sockel; daneben mehrere unbestückte, durchkontaktierte Lötaugen. Oben links ist ein kleines schwarzes Bauteil an der Position „D1“ zu sehen, umlaufend sind mit weißem Bestückungsdruck diverse Bezeichnungen markiert, u. a. „R2“, „C4“, „R1“, „C1“, „C2“, „C3“, „U1“, „C8“, „R6“, „R3“, „R4“, „R5“, „U2“ sowie „DL9MJ“. Rechts der Mitte befindet sich ein schwarzes SMD-Bauteil mit mehreren Anschlüssen, darunter weitere kleine Widerstände und Kondensatoren. Rechts unten ist ein weißes, quadratisches Trimmelement mit Schlitz zur Justage erkennbar, mit Aufdrucken „B“ und „104“; seine Lötfahnen ragen nach unten. Entlang der rechten Kante befinden sich weitere Reihen unbestückter, durchkontaktierter Lötaugen. Die Leiterplatte liegt auf einer hellgrauen, leicht strukturierten Oberfläche.
