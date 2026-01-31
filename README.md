@@ -127,9 +127,9 @@ Kommentare gehen weiterhin per %-Zeichen, aber nur am Anfang der Zeile! TODO als
 
 ## Zeichnungen
 
-Die Zeichnungen werden durch LaTeX und TikZ umgesetzt. Hierbei kommt insbesondere die Bibliothek [CircuiTikZ](https://ctan.org/pkg/circuitikz?lang=de) zum Einsatz. Ein direktes modifizieren der SVG-Dateien ist nicht vorgesehen.
+Die Zeichnungen werden durch LaTeX und TikZ umgesetzt. Hierbei kommt insbesondere die Bibliothek [CircuiTikZ](https://ctan.org/pkg/circuitikz?lang=de) zum Einsatz. Ein direktes modifizieren der SVG-Dateien ist für die deutschen Inhalte nicht vorgesehen!
 
-TODO: PYTHON SCRIPT TIKZ2SVG
+Das Python-Skript `src/build_drawings.py` wird verwendet, um ein neues Bild zu erstellen. Beim Aufrufen des Skripts muss eine Bildnummer eingegeben werden. Die Bildnummern müssen aufsteigend vergeben werden. Außerdem ist es notwendig, dass das Programm *pdftocairo* installiert ist, um ein SVG zu generieren.
 
 ## Links
 
