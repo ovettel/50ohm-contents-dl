@@ -1,0 +1,60 @@
+% Bandplan
+% 2024, Prof. Dr. Matthias Jung (DL9MJ)
+
+\begin{tikzpicture}
+    \begin{semilogxaxis}[
+        anchor=north,
+        xmin=300000, xmax=3000000000,
+        ymin=-50, ymax=50,
+        xtick={
+            300000,
+            3000000,
+            30000000,
+            300000000,
+            3000000000
+        },
+        xticklabels={
+            \SI{300}{\mega\hertz},
+            \SI{3}{\giga\hertz},
+            \SI{30}{\giga\hertz},
+            \SI{300}{\giga\hertz},
+            \SI{3}{\tera\hertz},
+        },
+        ytick style={draw=none},
+        ymajorticks=false,
+        xminorticks=false,
+        xmajorgrids=true,
+        ymajorgrids=false,
+        clip=false,
+        width=\linewidth,
+        height=5cm
+    ]
+
+        \draw(300000, 0) -- (3000000000, 0);
+
+        \bandC{   430000}{   440000}{430.000}{440.000}{\mega\hertz}{ 70}{\centi\metre} % 70 cm
+        \bandC{  1240000}{  1300000}{  1.240}{  1.300}{\giga\hertz}{ 23}{\centi\metre} % 23 cm
+        \bandC{  2320000}{  2450000}{  2.320}{  2.450}{\giga\hertz}{ 13}{\centi\metre} % 13 cm
+        \bandC{  3400000}{  3400000}{  3.400}{  3.475}{\giga\hertz}{  9}{\centi\metre} %  9 cm
+        \bandC{  5650000}{  5850000}{  5.650}{  5.850}{\giga\hertz}{  6}{\centi\metre} %  6 cm
+        \bandC{ 10000000}{ 10500000}{ 10.000}{ 10.500}{\giga\hertz}{  3}{\centi\metre} %  3 cm
+        \bandC{ 24000000}{ 24250000}{ 24.000}{ 24.250}{\giga\hertz}{1.2}{\centi\metre} %1.2 cm
+        % ------------------------------------------------------
+        \bandC{ 47000000}{ 47200000}{ 47.000}{ 47.200}{\giga\hertz}{6}{\milli\metre} %  6 mm
+        \bandC{ 76000000}{ 81500000}{ 76.000}{ 81.500}{\giga\hertz}{4}{\milli\metre} %  4 mm
+        \bandC{122250000}{123000000}{122.250}{123.000}{\giga\hertz}{2.5}{\milli\metre} %2.5 mm
+        \bandC{134000000}{141000000}{134.000}{141.000}{\giga\hertz}{2}{\milli\metre} %  2 mm
+        \bandC{241000000}{250000000}{241.000}{250.000}{\giga\hertz}{1.2}{\milli\metre} %1.2 mm
+        \bandC{444000000}{453000000}{444.000}{453.000}{\giga\hertz}{}{} 
+        \bandC{510000000}{546000000}{510.000}{546.000}{\giga\hertz}{}{} 
+        \bandC{711000000}{730000000}{711.000}{730.000}{\giga\hertz}{}{} 
+        \bandC{909000000}{926000000}{909.000}{926.000}{\giga\hertz}{}{} 
+        \bandD{945000000}{951000000}{945.000}{951.000}{\giga\hertz} 
+
+        \draw(   940500,-55) node(){UHF};
+        \draw(  9405000,-55) node(){SHF};
+        \draw( 94050000,-55) node(){EHF};
+        \draw(940500000,-55) node(){THF};
+
+    \end{semilogxaxis}
+\end{tikzpicture}

@@ -1,0 +1,55 @@
+% Bandplan
+% 2024, Prof. Dr. Matthias Jung (DL9MJ)
+
+\begin{tikzpicture}
+    \begin{semilogxaxis}[
+        xmin=30, xmax=300000,
+        ymin=-50, ymax=50,
+        xtick={30,300,3000,30000,300000},
+        xticklabels={
+            \SI{30}{\kilo\hertz},
+            \SI{300}{\kilo\hertz},
+            \SI{3}{\mega\hertz},
+            \SI{30}{\mega\hertz},
+            \SI{300}{\mega\hertz},
+        },
+        ytick style={draw=none},
+        ymajorticks=false,
+        xminorticks=false,
+        xmajorgrids=true,
+        ymajorgrids=false,
+        clip=false,
+        width=\linewidth,
+        height=5cm,
+    ]
+
+        \draw(30, 0) -- (300000, 0);
+
+        % ----------------------------------------------------
+        \bandC{  135.7}{  137.8}{  135.7}{  137.8}{\kilo\hertz}{2.2}{\kilo\metre}
+        ----------------------------------------------------
+        \bandC{  472.0}{  479.0}{  472.0}{  479.0}{\kilo\hertz}{630}{\metre}
+        \bandC{   1810}{   2000}{  1.810}{  2.000}{\mega\hertz}{160}{\metre}
+        % ----------------------------------------------------
+        \bandC{   3500}{   3800}{  3.500}{  3.800}{\mega\hertz}{ 80}{\metre}
+        \bandC{ 5351.5}{ 5366.5}{ 5.3515}{ 5.3665}{\mega\hertz}{ 60}{\metre}
+        \bandC{   7000}{   7200}{  7.000}{  7.200}{\mega\hertz}{ 40}{\metre}
+        \bandC{  10100}{  10150}{ 10.100}{ 10.150}{\mega\hertz}{ 30}{\metre}
+        \bandC{  14000}{  14350}{ 14.000}{ 14.350}{\mega\hertz}{ 20}{\metre}
+        \bandC{  18068}{  18168}{ 18.068}{ 18.168}{\mega\hertz}{ 17}{\metre}
+        \bandC{  21000}{  21450}{ 21.000}{ 21.450}{\mega\hertz}{ 15}{\metre} 
+        \bandC{  24890}{  24990}{ 24.890}{ 24.990}{\mega\hertz}{ 12}{\metre} 
+        \bandC{  28000}{  29700}{ 28.000}{ 29.700}{\mega\hertz}{ 10}{\metre}
+        % ---------------------------------------------------
+        \bandC{  50030}{  52000}{ 50.030}{ 52.000}{\mega\hertz}{  6}{\metre} 
+        \bandC{  70150}{  70210}{ 70.150}{ 70.210}{\mega\hertz}{  4}{\metre} 
+        \bandC{ 144000}{ 146000}{144.000}{146.000}{\mega\hertz}{  2}{\metre} 
+
+        \draw(   94.05,-55) node(){LW};
+        \draw(  940.50,-55) node(){MF};
+        \draw( 9405.00,-55) node(){HF (KW)};
+        \draw(94050.00,-55) node(){VHF (UKW)};
+
+
+    \end{semilogxaxis}
+\end{tikzpicture}

@@ -1,0 +1,18 @@
+% Author: Prof. Dr. Matthias Jung, DL9MJ
+% Year: 2025
+\begin{circuitikz}[background rectangle/.style={fill=white}, show background rectangle]
+    \draw(current page.center) node[
+        minimum width=\linewidth,
+        minimum height=\linewidth,
+        inner sep=0
+    ](img){\centering\includegraphics[height=\linewidth]{foto/168}};
+
+    %% Beschriftung:
+    \draw(img.237)            node [above]{\small LR41 \qty{1.5}{\volt}};
+    \draw(img.217 -| img.255) node []{\small AA \qty{1.5}{\volt}};
+    \draw(img.122 |- img.139) node []{\small AAA \qty{1.5}{\volt}};
+    \draw(img.283 |- img.214) node []{\small \qty{9}{\volt} Block};
+
+    \draw(img.283 |- img.222) to [battery2, l={G}] (img.310 |- img.222);
+
+\end{circuitikz}
