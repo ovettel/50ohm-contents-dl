@@ -1,0 +1,5 @@
+Dieser Alt-Text wurde noch nicht überprüft.
+
+Kurzfassung: Rechteckiges, hellgraues Raster mit einem kleinen blauen Punkt an der linken Kante auf etwa mittlerer Höhe.
+
+Detailbeschreibung: Die Grafik zeigt einen weißen Hintergrund mit feinen, hellgrauen horizontalen und vertikalen Linien, die ein gleichmäßiges Gitternetz innerhalb eines dünn umrandeten Rechtecks bilden. An der linken Außenkante des Rasters befindet sich ein einzelner, runder, blau gefüllter Marker mit feinem Rand, etwa auf der Höhe der mittleren horizontalen Rasterlinie. Es gibt keine Beschriftungen, Achsen, Zahlen oder weiteren grafischen Elemente.
