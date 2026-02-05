@@ -1,0 +1,15 @@
+% Author: Prof. Dr. Matthias Jung, DL9MJ
+% Year: 2026
+\begin{tikzpicture}
+    \foreach\i in {1,2,3}
+    {
+      \begin{scope}[rotate=120*\i-150]
+        \draw[very thick] (0,0) -- (0:2);
+        \begin{scope}[shift={(0.27,0.475)}]
+            \draw [DARCblue, smooth,domain=-19:139] plot ({1.5*cos(\x)}, {1.5*sin(\x)});
+        \end{scope}
+      \end{scope}
+    }
+    \draw[thick,fill=white] (0,0) circle (2mm);
+    \fill                   (0,0) circle (0.8mm);
+\end{tikzpicture}

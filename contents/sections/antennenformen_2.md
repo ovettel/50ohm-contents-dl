@@ -98,7 +98,7 @@ Einen Spezialfall einer Vertikalantenne stellt die gegen Erde (oder einer Fahrze
 Auch eine Groundplane-Antenne strahlt rechtwinklig zum Strahler (nicht zu den Radialen) ab. Da das Strahlungsdiagramm die Groundplane-Antenne oft von oben betrachtet, ergibt sich nahezu ein Rundstrahler, der in alle Himmelsrichtungen nahezu den gleichen Gewinn aufweist (vgl. Abbildung [ref:e_ground_plane_abstrahlung]). Die Radiale haben nur geringen Einfluss und können das Strahlungsdiagramm leicht "verbeulen", was einem geringfügig abweichenden Gewinn in bestimmten Richtungen entspricht.
 
 <margin>
-[picture:1045:e_ground_plane_abstrahlung:Abstrahlung Groundplane-Antenne]
+[picture:1046:e_ground_plane_abstrahlung:Abstrahlung Groundplane-Antenne]
 </margin>
 
 [question:EG216]
