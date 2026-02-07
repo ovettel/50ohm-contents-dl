@@ -47,11 +47,17 @@ Die minimale Spannung am Emitter-Basis-Übergang hängt vom verwendeten Halbleit
 [picture:863:e_npn_i_u:Ströme uns Spannungen an einem npn-Transistor]
 </margin>
 
+---
+
 Die Ströme und Spannungen an einem npn-Transistor sind in der Abbildung [ref:e_npn_i_u] dargestellt. Die Basis-Emitter-Spannung $U_{BE}$ kennen wir bereits, ebenso die Kollektor-Basis-Spannung $U_{CB}$. Der Kollektorstrom $I_C$ hängt exponentiell von der Basis-Emitter-Spannung ab:
 
-$I_C = I_0\ e^{\frac{U_{BE}}{U_T}}$
+$I_C = I_\text{S}\ e^{\frac{U_{BE}}{U_T}}$
 
-$U_T$ ist bei Raumtemperatur etwa 26 mV. 
+$U_T$ ist bei Raumtemperatur etwa 26 mV.  
+
+<indepth>
+$I_\text{S}$ bezeichnet den sogenannten Sättigungs-Sperrstrom eines Bipolartransistors. Er ist ein charakteristischer Bauteilparameter und steht in engem Zusammenhang mit der Emitter-Basis-Diode. Dabei handelt es sich um einen sehr kleinen Leckstrom, der auch dann durch den Transistor fließt, wenn die Basis-Emitter-Strecke nicht leitend ist.
+</indepth>
 
 Der Basisstrom $I_B$ hat in weiten Betriebsbereichen die gleiche Spannungsabhängig wie der Kollektorstrom, sodass das Verhältnis von Kollektorstrom und Basisstrom konstant ist:
 
