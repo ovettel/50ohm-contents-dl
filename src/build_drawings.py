@@ -1,6 +1,8 @@
-# 2026, DARC e. V., Matthias Jung (DL9MJ)
+#!/usr/bin/env python3
+
+# 2026, DARC e. V., Matthias Jung (DL9MJ) and others.
 import tempfile
-import os
+import subprocess
 import pathlib
 
 def build_drawing(id, width=9.0):
@@ -45,24 +47,30 @@ def build_drawing(id, width=9.0):
         foto_link2.symlink_to(photos_path)
 
         # Build the picture:
-        os.system(f"latexmk -lualatex {aux_file}")
+        subprocess.run(f"latexmk -lualatex {aux_file}",
+                       shell=True, check=True, stdin=subprocess.DEVNULL)
         
         # Convert the PDF to SVG and store it in the drawings folder:
-        os.system(f"pdftocairo -svg {build_path}/{id}.pdf - > {drawings_path}/{id}.svg")
+        subprocess.run(f"pdftocairo -svg {build_path}/{id}.pdf - > {drawings_path}/{id}.svg",
+                       shell=True, check=True, stdin=subprocess.DEVNULL)
 
         return True
 
-print("Build SVG from LaTeX")
-print("Please type number of drawing:")
+if __name__ == "__main__":
 
-id = int(input())
-
-print("Please type size of drawing (default 9):")
-
-if (width_str := input()) != "":
-    width = float(width_str)
-else:
-    width = 9.0
-
-print(f"Building picture {id}. This might take a while ... ") 
-build_drawing(id, width)
+    # One may want to pass the drawing number and the size as arguments.
+    
+    print("Build SVG from LaTeX")
+    print("Please type number of drawing:")
+    
+    id = int(input())
+    
+    print("Please type size of drawing (default 9):")
+    
+    if (width_str := input()) != "":
+        width = float(width_str)
+    else:
+        width = 9.0
+    
+    print(f"Building picture {id}. This might take a while ... ") 
+    build_drawing(id, width)
