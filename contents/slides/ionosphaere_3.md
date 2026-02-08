@@ -61,7 +61,7 @@
 [picture:988:a_flux:Solarer Flux und Anzahl der Sonnenflecken von 2005 bis 2025]
 </left>
 <right>
-* Strahlung der Sonne auf 2,8 GHz
+* Strahlung der Sonne auf $\qty{2,8}{\giga\hertz}$
 * Wird seit Mitte des 20. Jahrhunderts durchgeführt
 * Ist weniger sprunghaft als Zählung der Sonnenflecken
 * Reicht von 65 im Aktivitätsminimum und bis über 300 bei starken Maxima
