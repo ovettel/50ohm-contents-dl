@@ -1,7 +1,7 @@
 Für den Funkbetrieb ist es wichtig zu wissen, welche Frequenzbereiche durch Funkamateure genutzt werden dürfen. Dies lässt sich aus der [Anlage 1 der AFuV](https://50ohm.de/a1) ablesen. Damit sollten die folgenden Fragen leicht zu beantworten sein. Die Anlage 1 der AFuV liegt während der Prüfung als Hilfsmittel bereit.
 
 <tip>
-Für diese Fragen ist wirklich kein Auswendiglernen oder Ausrechnen erforderlich: Man muss nur überprüfen, welcher der in der Prüfungsfrage angegebenen Werte in der Liste der Anlage 1 auftaucht. Dieser Wert ist dann die richtige Antwort. Die Werte können sich, wie z.B. beim $\qty{100}{\meter}$-Band, auch aus mehreren Einträgen zusammensetzen.
+Für diese Fragen ist wirklich kein Auswendiglernen oder Ausrechnen erforderlich: Man muss nur überprüfen, welcher der in der Prüfungsfrage angegebenen Werte in der Liste der Anlage 1 auftaucht. Dieser Wert ist dann die richtige Antwort. Die Werte können sich, wie z.B. beim $\qty{160}{\meter}$-Band, auch aus mehreren Einträgen zusammensetzen.
 </tip>
 
 <margin>
