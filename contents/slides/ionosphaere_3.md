@@ -44,7 +44,7 @@
 ---
 ### Nachts
 
-* $\num{80}$ und $\qty{160}{\meter}$-Bänder sind tagsüber aufgrund der D-Schicht kaum nutzbar, aber nachts zuverlässig
+* $\qty{80}{\meter}$ und $\qty{160}{\meter}$-Bänder sind tagsüber aufgrund der D-Schicht kaum nutzbar, aber nachts zuverlässig
 * $\qty{40}{\meter}$-Band ermöglicht nachts größere Reichweiten, da die Ausbreitung über die F2-Schicht erfolgt
 * F1-Schicht: Führt aufgrund geringerer Höhe zu kürzeren Sprungdistanzen und ist meist unerwünscht
 

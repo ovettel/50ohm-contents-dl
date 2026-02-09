@@ -6,7 +6,7 @@
 
 * Englisch *Rainscatter*
 * Streuung an Regentropfen in alle Richtungen (Rayleigh-Streuung)
-* Tropfengröße muss zur Wellenlänge passen: $\num{6}$ und $\qty{3}{\centi\meter}$-Band
+* Tropfengröße muss zur Wellenlänge passen: $\qty{6}{\centi\meter}$ und $\qty{3}{\centi\meter}$-Band
 * Antenne wird auf Regenwolke gehalten
 * Rauer Ton in SSB- und CW-Signalen (ähnlich Aurora)
 
