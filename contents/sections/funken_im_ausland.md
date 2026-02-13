@@ -60,7 +60,7 @@ Die Empfehlungen der CEPT werden ausschließlich für persönliche Rufzeichen an
 [question:VB114]
 [question:VB113]
 
-Wie in Deutschland gibt es in den einzelnen CEPT-Ländern unterschiedliche nationale Regelungen für den Amateurfunk. Nur weil in Deutschland beispielsweise das 6 m-Band für Klasse A freigegeben ist, bedeutet das nicht automatisch, dass man auch im Ausland das 6 m-Band verwenden darf. Man muss sich den Bestimmungen und Auflagen des Gastlandes anpassen.
+Wie in Deutschland gibt es in den einzelnen CEPT-Ländern unterschiedliche nationale Regelungen für den Amateurfunk. Nur weil in Deutschland beispielsweise das $\qty{6}{\meter}$-Band für Klasse A freigegeben ist, bedeutet das nicht automatisch, dass man auch im Ausland das $\qty{6}{\meter}$-Band verwenden darf. Man muss sich den Bestimmungen und Auflagen des Gastlandes anpassen.
 
 [question:VB111]
 [question:VB112]

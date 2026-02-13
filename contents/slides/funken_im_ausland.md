@@ -113,14 +113,14 @@ Hier hilft das DARC-Auslandsreferat seinen Mitgliedern
 ---
 ## Nationale Regelungen
 * In CEPT-Ländern gibt es unterschiedliche nationale Regelungen
-* z.B. ist das in Deutschland freigegebene 6m-Band im Ausland beschränkt
+* z.B. ist das in Deutschland freigegebene $\qty{6}{\meter}$-Band im Ausland beschränkt
 * Bestimmungen und Auflagen des Gastlandes beachten
 
 <note>
 Beliebt:
-* 20m mit Klasse E in den Niederlanden oder 
+* $\qty{20}{\meter}$ mit Klasse E in den Niederlanden oder
 * Alle KW-Bänder mit Klasse E in Dänemark
-* 1000 W PEP Kurzwelle mit Klasse A in Dänemark
+* $\qty{1000}{\watt}$ PEP Kurzwelle mit Klasse A in Dänemark
 </note>
 ---
 [question:VB111]
