@@ -139,13 +139,13 @@ $U = \sqrt{P \cdot R} = \sqrt{6\  \text{W} \cdot 10^5\ \Omega} \approx 774,6\  \
 
 Wenn der Widerstandswert und die maximale Belastbarkeit gegeben sind und nach dem Maximalstrom gefragt wird, verwenden wir die Beziehung:
 
-$I = \sqrt{\frac{P}{R}} =  \sqrt{\frac{\qty{23}{\watt}}{\qty{120}{\ohm}}} \approx \qty{0,4378}{\ampere} \approx \qty{438}{\milli\ampere}
+$I = \sqrt{\frac{P}{R}} =  \sqrt{\frac{\qty{23}{\watt}}{\qty{120}{\ohm}}} \approx \qty{0,4378}{\ampere} \approx \qty{438}{\milli\ampere}$
 
 [question:EB513]
 
 In dieser Frage wird ein Oszilloskop verwendet, um die Spitzen-Spitzen Spannung an der Last zu messen. Diese Spannung beträgt $U_{SS} = \qty{25}{\volt}$. Das bedeutet die Spitzenspannung beträgt $\hat{U} = \qty{12,5}{\volt}$ Wir berechnen zunächst den Effektivwert der Spannung:
 
-$U_{eff} = \frac{\hat{U}}{\sqrt{2}} = \frac{\qty{12.5}{\volt}}{\sqrt{2}} \approx \qty{8,84}{\volt}$
+$U_{eff} = \frac{\hat{U}}{\sqrt{2}} = \frac{\qty{12,5}{\volt}}{\sqrt{2}} \approx \qty{8,84}{\volt}$
 
 Dann ist der Effektivstrom (Ohmsches Gesetz):
 
