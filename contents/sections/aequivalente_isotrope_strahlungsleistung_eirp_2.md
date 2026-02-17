@@ -70,7 +70,7 @@ $P_\text{EIRP} = P_\text{Sender} \cdot 10^{\frac{g_i-a}{\qty{10}{\dB}}}= \qty{25
 
 Der zweite mögliche Rechenweg nutzt die Tatsache, dass man dB-Werte "zerlegen" kann. In der Frage beträgt der Antennengewinn $g = \qty{26}{\dBi}$. In der Formelsammlung findet sich in Tabelle [ref:e_dezibel_leistungsfaktoren] eine Übersicht über Leistungsfaktoren für wichtige dB-Werte. Für $\qty{26}{\dB}$ gibt es dort keinen direkten Eintrag. Da sich Pegel in Dezibel jedoch addieren lassen, kann man den Wert sinnvoll aufteilen:
 
-$\qty{26}{\dBi} = \qty{20}{\dBi} + \qty{6}{\dBi}$
+$\qty{26}{\dBi} = \qty{20}{\dBi} + \qty{6}{\dB}$
 
 <margin>
 | c:dB | c:≈ Leistungsfaktor |
@@ -117,13 +117,13 @@ $ P_\text{Sender} = \frac{P_\text{EIRP}}{10^{\frac{g_i-a}{\qty{10}{\dB}}}} $
 
 Wir setzen die Werte ein:
 
-$ P_\text{Sender} = \frac{\qty{10}{\watt}}{10^{\frac{\qty{5,15}{\dB}}{\qty{10}{\dB}}}} = \frac{\qty{10}{\watt}}{3,27} \approx \qty{3,05}{\watt} $
+$ P_\text{Sender} = \frac{\qty{10}{\watt}}{10^{\frac{\qty{5,15}{\dBi}}{\qty{10}{\dB}}}} = \frac{\qty{10}{\watt}}{3,27} \approx \qty{3,05}{\watt} $
 
 Die Berechnung mit dem Taschenrechner ergibt $\qty{3,05}{\watt}$. Mit einer Begrenzung auf $\qty{3}{\watt}$ hält man den Grenzwert von kleiner $\qty{10}{\watt}$ EIRP ein.
 
 Der Zweite Rechenweg geht wieder über die Zerlegung der dB-Werte. Schaut man sich den Wert $g=\qty{5,15}{\dBi}$ an so erkennt man, dass man diesen Wert in 
 
-$\qty{5,15}{\dBi} = \qty{3}{\dBi} + \qty{2,15}{\dBi}$
+$\qty{5,15}{\dBi} = \qty{3}{\dBi} + \qty{2,15}{\dB}$
 
 zerlegen kann. In der Tabelle [ref:e_dezibel_leistungsfaktoren] findet man den Faktor für $\qty{2,15}{\dB}$ als $\num{1,64}$. Somit ergibt sich für die maximale Sendeleistung:
 
@@ -196,6 +196,6 @@ In der nächsten Frage ist eine Antenne mit einem Gewinn von $\qty{0}{\dB}$ auf 
 
 Hier kann wieder die Folmel aus der Formelsammlung verwendet werden:
 
-$P_\text{EIRP} = P_\text{Sender} \cdot 10^{\frac{g_i-a+\qty{2,15}{\dB}}{\qty{10}{\dB}}} = \qty{8,5}{\watt} \cdot 10^{\frac{0\qty{-1,5}{\dB}+\qty{2,15}{\dB}}{\qty{10}{\dB}}} = \qty{9,9}{\watt}$
+$P_\text{EIRP} = P_\text{Sender} \cdot 10^{\frac{g_i-a+\qty{2,15}{\dB}}{\qty{10}{\dB}}} = \qty{8,5}{\watt} \cdot 10^{\frac{\qty{0}{\dB}-\qty{1,5}{\dB}+\qty{2,15}{\dB}}{\qty{10}{\dB}}} = \qty{9,9}{\watt}$
 
 Im Kopf kann man es auch überschlagen: Rechnet man wieder den Gesamtgewinn des Systems aus, so beträgt dieser nur $\qty{0,65}{\dB}$, also nicht einmal $\qty{1}{\dB}$. $\qty{1}{\dB}$ entspricht, laut unserer Tabelle [ref:e_dezibel_leistungsfaktoren], einem Faktor von $\num{1,26}$. Der Zielwert muss also zwischen $\qty{8,5}{\watt}$ und $\qty{10,71}{\watt}$ liegen. Nur die $\qty{9,9}{\watt}$ kommen also in Frage.
